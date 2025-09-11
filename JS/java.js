@@ -48,4 +48,4 @@ false
  console.log(nameresult);
 
  result = num1 == name2;
- console.log(result);de
+ console.log(result);lk
